@@ -20,9 +20,10 @@
 > 
 > MLU R1, R2 -> 'MLU' is the Op-code. 'R1, R2' are operands.
 
----
-- Registers are present inside the CPU. Registers are limited in number.
-	Cookies act as buffers and stores computer information. 
+
+>Note:  
+> Registers are present inside the CPU. Registers are limited in number.  
+> Cookies act as buffers and stores computer information. 
 
 ### Basic Concepts of OOPS
 #### Class
